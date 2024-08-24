@@ -1,0 +1,2 @@
+C:/Users/XOR/source/repos/Симуляция Жизни/vcpkg_installed/vcpkg/blds/detect_compiler/x64-windows-rel/CMakeFiles/edit_cache.dir
+C:/Users/XOR/source/repos/Симуляция Жизни/vcpkg_installed/vcpkg/blds/detect_compiler/x64-windows-rel/CMakeFiles/rebuild_cache.dir

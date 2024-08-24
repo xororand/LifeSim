@@ -1,0 +1,37 @@
+﻿  Симуляция Жизни.cpp
+C:\Users\XOR\source\repos\Симуляция Жизни\agent.h(61,55): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\XOR\source\repos\Симуляция Жизни\agent.h(61,47): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\XOR\source\repos\Симуляция Жизни\agent.h(81,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\XOR\source\repos\Симуляция Жизни\Симуляция Жизни.cpp(64,40): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\XOR\source\repos\Симуляция Жизни\Симуляция Жизни.cpp(65,49): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\XOR\source\repos\Симуляция Жизни\Симуляция Жизни.cpp(126,60): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\XOR\source\repos\Симуляция Жизни\Симуляция Жизни.cpp(126,60): warning C4244:         with
+C:\Users\XOR\source\repos\Симуляция Жизни\Симуляция Жизни.cpp(126,60): warning C4244:         [
+C:\Users\XOR\source\repos\Симуляция Жизни\Симуляция Жизни.cpp(126,60): warning C4244:             T=float
+C:\Users\XOR\source\repos\Симуляция Жизни\Симуляция Жизни.cpp(126,60): warning C4244:         ]
+C:\Users\XOR\source\repos\Симуляция Жизни\Симуляция Жизни.cpp(126,45): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\XOR\source\repos\Симуляция Жизни\Симуляция Жизни.cpp(126,45): warning C4244:         with
+C:\Users\XOR\source\repos\Симуляция Жизни\Симуляция Жизни.cpp(126,45): warning C4244:         [
+C:\Users\XOR\source\repos\Симуляция Жизни\Симуляция Жизни.cpp(126,45): warning C4244:             T=float
+C:\Users\XOR\source\repos\Симуляция Жизни\Симуляция Жизни.cpp(126,45): warning C4244:         ]
+C:\Users\XOR\source\repos\Симуляция Жизни\Симуляция Жизни.cpp(127,34): warning C4244: аргумент: преобразование "double" в "sf::Uint8", возможна потеря данных
+C:\Users\XOR\source\repos\Симуляция Жизни\Симуляция Жизни.cpp(129,49): warning C4244: аргумент: преобразование "double" в "sf::Uint8", возможна потеря данных
+C:\Users\XOR\source\repos\Симуляция Жизни\Симуляция Жизни.cpp(133,64): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\XOR\source\repos\Симуляция Жизни\Симуляция Жизни.cpp(133,64): warning C4244:         with
+C:\Users\XOR\source\repos\Симуляция Жизни\Симуляция Жизни.cpp(133,64): warning C4244:         [
+C:\Users\XOR\source\repos\Симуляция Жизни\Симуляция Жизни.cpp(133,64): warning C4244:             T=float
+C:\Users\XOR\source\repos\Симуляция Жизни\Симуляция Жизни.cpp(133,64): warning C4244:         ]
+C:\Users\XOR\source\repos\Симуляция Жизни\Симуляция Жизни.cpp(133,49): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\XOR\source\repos\Симуляция Жизни\Симуляция Жизни.cpp(133,49): warning C4244:         with
+C:\Users\XOR\source\repos\Симуляция Жизни\Симуляция Жизни.cpp(133,49): warning C4244:         [
+C:\Users\XOR\source\repos\Симуляция Жизни\Симуляция Жизни.cpp(133,49): warning C4244:             T=float
+C:\Users\XOR\source\repos\Симуляция Жизни\Симуляция Жизни.cpp(133,49): warning C4244:         ]
+C:\Users\XOR\source\repos\Симуляция Жизни\Симуляция Жизни.cpp(166,40): warning C4244: аргумент: преобразование "double" в "sf::Uint8", возможна потеря данных
+C:\Users\XOR\source\repos\Симуляция Жизни\Симуляция Жизни.cpp(166,34): warning C4244: аргумент: преобразование "double" в "sf::Uint8", возможна потеря данных
+C:\Users\XOR\source\repos\Симуляция Жизни\Симуляция Жизни.cpp(166,28): warning C4244: аргумент: преобразование "double" в "sf::Uint8", возможна потеря данных
+  Создание кода
+  10 of 282 functions ( 3.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Симуляция Жизни.vcxproj -> C:\Users\XOR\source\repos\Симуляция Жизни\x64\Release\Симуляция Жизни.exe
